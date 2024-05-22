@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffi45)](https://github.com/raffi45/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 
 <!--
 **raffi45/raffi45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
