@@ -1,11 +1,7 @@
-## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffi45)](https://github.com/raffi45/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffi45&hide_progress=true)
-
+## Hi there 
 <br>
 
-
+I am a third-year informatics engineering student with a strong passion for data analytics and business intelligence. I am familiar with T-SQL, Python, R, power BI, and TensorFlow environments. I have excellent interpersonal and communication skills through successful team management and mentoring students. I am skilled in organizing and executing events, as well as leading teams. I am also used to working under pressure and adaptable in new environments.
 
 
 <!--
